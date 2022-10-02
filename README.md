@@ -2,7 +2,7 @@
 
 # ESP32 Chess Engine
 
-Chess coprocessor migrated from stand alone Arduino file to PlatformIO. The original source code is from Sergey Urusov. Here I put here to try to improve and use this code for other objective.
+Chess coprocessor was migrated from a stand alone Arduino file to PlatformIO. The original source code is from Sergey Urusov. I put it here to try to improve and use for other objective.
 
 
 # Credits

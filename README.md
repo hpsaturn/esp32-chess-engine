@@ -36,4 +36,4 @@ pio run -e esp32s3 --target upload
 
 # Credits
 
-Initial source code from Sergey Urusov on [HacksterIO](https://www.hackster.io/Sergey_Urusov/esp32-chess-engine-c29dd9)
+The initial source code is from Sergey Urusov on [HacksterIO](https://www.hackster.io/Sergey_Urusov/esp32-chess-engine-c29dd9)
